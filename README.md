@@ -1,2 +1,4 @@
-# DWHProject
-Progetto Carriere Studenti. Homework Basi di Dati ||. 
+Franco Piperno
+Federico Ferri
+
+
