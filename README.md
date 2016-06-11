@@ -1,4 +1,2 @@
 Franco Piperno
-Federico Ferri
-
 
